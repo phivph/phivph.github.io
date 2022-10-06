@@ -12,7 +12,7 @@ If you are curious about it, you can [*click here to watch my TEDx talk*](https:
 
 
 I'll be back with more! 
-
+---
 **See you soon!**
 
 
