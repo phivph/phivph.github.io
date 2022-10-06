@@ -4,5 +4,5 @@ Thank you for your patience.
 
 **See you soon!**
 
-You can [click here](https://phivph.github.io/myCV/) to see a list of my publications.
+You can [click here](https://phivph.github.io/publications/) to see a list of my publications.
 
