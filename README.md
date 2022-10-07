@@ -17,4 +17,7 @@ I'll be back with more!
 **See you soon!**
 ---
 
+<div align="center">
+  <img width="460" height="300" src="me_on_bike.jpg">
+</div>
 
