@@ -1,7 +1,3 @@
----
-title: "Phivos Phylactou: Personal Website"
----
-
 # Hello and welcome to my personal website!
 I am still working on it, so there is nothing much to see here.
 
@@ -19,3 +15,5 @@ I'll be back with more!
 
 **See you soon!**
 ---
+
+
