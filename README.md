@@ -1,6 +1,6 @@
 # Hello and welcome to my personal website!
 
-<img align="right" width="100" height="200" src="https://github.com/phivph/phivph.github.io/blob/aaca323a1f521d75496595326ed1f6ef6de1b6ed/selfillussion.jpg">
+<img align="right" width="100" height="200" src="selfillussion.jpg">
 
 
 I am still working on it, so there is nothing much to see here.
