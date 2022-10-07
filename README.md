@@ -1,7 +1,7 @@
 # Hello and welcome to my personal website!
-|[**Home**](https://phivph.github.io)|[**List of Publications**](https://phivph.github.io/publications/)|
-|-|-|
 
+|[**Home**](https://phivph.github.io)|[**List of Publications**](https://phivph.github.io/publications/)|(*Coming Soon*)|
+|:--:|:----:|:--:|
 <img align="right" width="100" height="200" src="selfillussion.jpg">
 
 
