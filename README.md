@@ -18,6 +18,6 @@ I'll be back with more!
 ---
 
 <div align="center">
-  <img width="460" height="300" src="me_on_bike.jpg">
+  <img width="460" height="460" src="me_on_bike.jpg">
 </div>
 
