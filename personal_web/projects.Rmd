@@ -1,0 +1,21 @@
+---
+title: "Research Projects"
+output: html_document
+---
+
+## Understanding the Neural Underpinnings of VSTM
+My main research interest is focused on understanding the nerual architecture of visual short-term memory. How are visual representations stored during working memory?
+
+To study this, I combine behavioral experiments (think of these like some sort of very boring video games) with various technologies. 
+
+The main tool I employ is transcranial magnetic stimulation (TMS). TMS is a non-invasive, reliable, and safe tool to induce brain stimulation with high temporal & spatial resolution.
+
+An animated example of a TMS paradigm is shown below:
+
+<put awesome gif here>
+
+
+
+<font size="1"> VSTM; Visual Short-Term Memory
+
+<font size="1"> TMS; Transcranial Magnetic Stimulation

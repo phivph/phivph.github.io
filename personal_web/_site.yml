@@ -6,5 +6,7 @@ navbar:
       href: index.html
     - text: "Publications"
       href: publications.html
+    - text: "Projects"
+      href: projects.html
     - text: "Affiliation"
       href: affiliation.html
