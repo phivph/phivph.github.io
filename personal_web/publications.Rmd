@@ -2,6 +2,8 @@
 title: "Phivos Phylactou: Publication List"
 ---
 
+<font size="2"> *Note: Please feel free to [contact me](https://phivph.github.io/contact.html) if you cannot access any of the work below* 
+
 ## 2022
 **Phylactou, P.**, Traikapi, A., Papadatou-Pastou, M., & Konstantinou, N. (2022). Sensory Recruitment in Visual Short-Term Memory: A Systematic Review and Meta-Analysis of Sensory Visual Cortex Interference Using Transcranial Magnetic Stimulation. *Psychonomic Bulletin & Review* [https://doi.org/10.3758/s13423-022-02107-y](https://doi.org/10.3758/s13423-022-02107-y)
 

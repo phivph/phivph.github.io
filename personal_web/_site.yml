@@ -10,3 +10,5 @@ navbar:
       href: projects.html
     - text: "Affiliation"
       href: affiliation.html
+    - text: "Contact"
+      href: contact.html
