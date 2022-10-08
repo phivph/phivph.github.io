@@ -1,9 +1,26 @@
 ---
-title: "My Website"
+title: "About Me"
+---
+Hello and welcome to my personal website!
 ---
 
-Hello, Website!
+<img align="right" width="100" height="200" src="selfillussion.jpg">
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+I am still working on it, so there is nothing much to see here.
+
+In the meantime you can [*click here*](https://phivph.github.io/publications/) to see a list of my publications.
+
+Also, check out the selfie, on the side of this website. 
+
+If you are curious about it, you can [*click here to watch my TEDx talk*](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive"), where I explain what is going on! 
+
+
+I'll be back with more! 
+
+**See you soon!**
+---
+
+<div align="center">
+  <img width="460" height="460" src="me_on_bike.jpg">
+</div>

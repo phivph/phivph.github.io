@@ -1,8 +1,8 @@
-name: "my-website"
+name: "PhivPh"
 navbar:
-  title: "My Website"
+  title: "Phivos Phylactou"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Publications"
+      href: publications.html
