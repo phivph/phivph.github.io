@@ -5,6 +5,6 @@ output: html_document
 |        |                    |
 |:------:|:--------------------|
 |![twitter icon](/files/twitterLogo.png)|[Follow me on twitter](https://twitter.com/phivph)|
-|add linked in icon| [Connect with me on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
-|add icon|email me on: phivph@gmail.com|
+|![linkedin icon](/files/linkedInLogo.png)| [Connect with me on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
+|![email icon](/files/emailLogo.png)|email me on: phivph@gmail.com|
 
