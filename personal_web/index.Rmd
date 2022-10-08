@@ -9,7 +9,7 @@ Hello and welcome to my personal website!
 
 I am still working on it, so there is nothing much to see here.
 
-In the meantime you can [*click here*](href: publications.html) to see a list of my publications.
+In the meantime you can [*click here*](https://phivph.github.io/publications.html) to see a list of my publications.
 
 Also, check out the selfie, on the side of this website. 
 

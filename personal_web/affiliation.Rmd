@@ -1,0 +1,18 @@
+---
+title: "Affiliations"
+output: html_document
+---
+ 
+ 
+### Current Affiliation
+I am currently affiliated in the Department of Rehabilitation Sciences at [Cyprus University of Technology](https://www.cut.ac.cy/?languageId=1).
+
+I work at the [Brain and Cognitive Science Lab](https://www.nkonstantinou.com/authors/phivos-phylactou/), led by Dr Nikos Konstantinou, where I study the neural underpinnings of Visual Short-Term Memory (VSTM) using non-invasive brain stimulation, eye-tracking, and other technologies.
+ 
+ 
+### Secondary Affiliation
+I am also part of the School of Science at University of Central Lancashire Cyprus, working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/), a Horizon Europe programme funded by the European Commission, which studies the public’s trust in science and the ways in which this trust can be enhanced through responsible research.
+ 
+ 
+### Previous Affiliations
+I received my BSc in Psychology from [Frederick University Cyprus](https://frederick.ac.cy). I graduated as the Valedictorian, in 2019. My graduation address can be [found here](https://www.youtube.com/watch?v=TCqeY3iD7RA) (in Greek). 
