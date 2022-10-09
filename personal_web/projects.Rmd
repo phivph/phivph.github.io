@@ -14,7 +14,7 @@ The main tool I employ is transcranial magnetic stimulation (TMS). TMS is a non-
 
 An animated example of a TMS paradigm is shown below:
 
-<img align="center" width="700" height="400" src="TMS_example">
+<img align="center" width="700" height="400" src="TMS_example.gif">
 
 
 ## Laterality
