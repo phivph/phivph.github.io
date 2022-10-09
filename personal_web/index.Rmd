@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    theme: cosmo
 ---
 Hello and welcome to my personal website!
 ---
@@ -20,3 +23,7 @@ I'll be back with more!
 
 **See you soon!**
 ---
+
+|         |        |        |        |
+|--------:|:------:|:------:|:------:| 
+|Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|

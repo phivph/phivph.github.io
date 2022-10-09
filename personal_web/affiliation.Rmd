@@ -1,6 +1,8 @@
 ---
 title: "Affiliations"
-output: html_document
+output:
+  html_document:
+    theme: cosmo
 ---
  
  
@@ -16,3 +18,9 @@ I am also part of the School of Science at University of Central Lancashire Cypr
  
 ### Previous Affiliations
 I received my BSc in Psychology from [Frederick University Cyprus](https://frederick.ac.cy). I graduated as the Valedictorian, in 2019. My graduation address can be [found here](https://www.youtube.com/watch?v=TCqeY3iD7RA) (in Greek). 
+
+---
+
+|         |        |        |        |
+|--------:|:------:|:------:|:------:| 
+|Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|

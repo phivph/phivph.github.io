@@ -1,10 +1,12 @@
 ---
 title: "Contact Details"
-output: html_document
+output:
+  html_document:
+    theme: cosmo
 ---
 |        |                    |
 |:------:|:--------------------|
 |![twitter icon](/files/twitterLogo.png)|[Follow me on twitter](https://twitter.com/phivph)|
 |![linkedin icon](/files/linkedInLogo.png)| [Connect with me on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
-|![email icon](/files/emailLogo.png)|email me on: phivph@gmail.com|
+|![email icon](/files/emailLogo.png)|drop me an email: pp.phylactou@edu.cut.ac.cy||
 
