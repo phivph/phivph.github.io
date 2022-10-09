@@ -16,6 +16,14 @@ An animated example of a TMS paradigm is shown below:
 
 <img align="center" width="700" height="400" src="/files/TMS_example.gif">
 
+### Trust in Science
+In February 2023, I will officially begin my collaboration as a Research Scientist, with the University of Central Lancashire Cyprus (UCLan), working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/).
+
+VERITAS is a **Horizon Europe** program funded by the European Commission, aiming to understand the **public’s trust in science** and the ways in which this trust can be **enhanced through responsible research**.
+
+VERITAS comprises of a consortium of **seven partners**, from seven European countries: Trilateral Research (United Kingdom and Ireland), EUREC Office (Germany), Science Business (Belgium), Centre for Social Innovation (Austria), UCLan Cyprus (Cyprus), and University of West Attica (Greece).
+
+My contribution to VERITAS is mainly related to the implementation of **quantitative meta-scientific methods** (i.e., meta-analyses).
 
 ### Laterality
 Did you notice that, as humans, **we are extremely asymmetric**?

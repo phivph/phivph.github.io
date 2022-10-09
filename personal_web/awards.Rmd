@@ -1,0 +1,20 @@
+---
+title: "Awards Received"
+output:
+  html_document:
+    theme: cosmo
+---
+- **Graduate Student Award for [research excellence](https://www.psychonomic.org/page/2021GraduateAwardRecipients)**, *Psychonomic Society*, 2021.
+
+- **PhD scholarship for social science research**, *Cyprus Scholarship Foundation*, 2020.
+
+- **[Valedictorian](https://www.youtube.com/watch?v=TCqeY3iD7RA): Highest overall GPA, amongst all students**, *Frederick University Cyprus*, 2019.
+
+
+
+ <br>
+---
+
+|         |        |        |        |
+|--------:|:------:|:------:|:------:| 
+|Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
