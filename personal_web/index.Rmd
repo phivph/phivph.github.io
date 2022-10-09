@@ -7,7 +7,7 @@ output:
 Hello and welcome to my personal website!
 ---
 
-<img align="right" width="100" height="200" src="selfillussion.jpg">
+<img align="right" width="100" height="200" src="/files/selfillussion.jpg">
 
 
 I am still working on it, please be patient.
@@ -20,7 +20,23 @@ If you are curious about it, you can [*click here to watch my TEDx talk*](https:
 <br>
 <br>
 
-## What I do {.tabset}
+## About me {.tabset}
+
+### Biosketch
+
+<img align="left" width="175" height="175" src="/files/mePresenting.jpg">
+
+I am currenlty a PhD Candidate in the Department of Rehabilitation Sciences, at Cyprus University of Technology.
+
+I have a BSc in Psychology, which I have obtained from Frederick University in 2019, where I graduated as the Valedictorian.
+
+My background in psychology made me curious about the neuroscientific basis of cognitive processes. Therefore, I am keen on investigating healthy individuals to discover basic neuroscientific evidence about perception, memory, and attention, with the use of non-invasive brain stimulation techniques, eye-tracking, brain imaging, and behavioural experiments. I also promote science communication and open science practises. 
+
+
+<br>
+<br>
+
+### What I do {.tabset}
 Here's a few things that I do in my every day life. 
 
 This can give you an indication on how we can *collaborate*.
@@ -29,19 +45,19 @@ Please feel free to [contact me](https://phivph.github.io/contact.html) to *esta
 
 <br>
 
-### Research
+#### Research
 Most of my work life is dedicated to scientific research.
 
 You can check out the [***Projects***](https://phivph.github.io/projects.html) tab to find out the details of my work!
 
-### Science Communication
+#### Science Communication
 I am also very keen on promoting *science communication*. 
 
 I have delivered numerous science communication workshops to scientists, for numerous organisations such as the Cyprus Research and Innovation Foundation. You can check out this [youtube video](https://youtu.be/aT99vnwat8U) as an example from an online workshop.
 
 Another example of passion for science communication, is found in my [TEDx talk](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive), which was given in my hometown, Limassol, as part of a TEDx youth event. 
 
-### Non-formal education
+#### Non-formal education
 I've had the opportunity to deliver plenty of lectures & trainings.
 
 Either as part of my course teaching, as an invited speaker, or during other events (e.g., Erasmus+ projects)

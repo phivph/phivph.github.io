@@ -5,7 +5,7 @@ output:
     theme: cosmo
 ---
 ##  {.tabset} 
-### Neural Underpinnings of VSTM
+### Visual Short-Term Memory
 My main research interest is focused on **understanding the nerual architecture of visual short-term memory**. How are visual representations stored during working memory?
 
 To study this, I combine **behavioral experiments** (think of these like some sort of very boring video games) with various technologies, such as **transcranial magnetic stimulation** (TMS), **eye-tracking**, and **brain imaging**. 

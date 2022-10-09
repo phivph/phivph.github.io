@@ -8,5 +8,5 @@ output:
 |:------:|:--------------------|
 |![twitter icon](/files/twitterLogo.png)|[Follow me on twitter](https://twitter.com/phivph)|
 |![linkedin icon](/files/linkedInLogo.png)| [Connect with me on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
-|![email icon](/files/emailLogo.png)|drop me an email: pp.phylactou@edu.cut.ac.cy||
+|![email icon](/files/emailLogo.png)|[Drop me an email](mailto:pp.phylactou@edu.cut.ac.cy)|
 
