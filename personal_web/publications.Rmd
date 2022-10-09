@@ -36,3 +36,10 @@ output:
 ### 2019
 - **Phylactou, P.** (2019). Inside the Mind of Weightlifters: The Mental Preparation of Greek-Cypriot Olympic-Weightlifting Athletes.  Journal of European Psychology Students, 10(3), 1–15. [http://doi.org/10.5334/jeps.466](http://doi.org/10.5334/jeps.466)
 
+
+ <br>
+---
+
+|         |        |        |        |
+|--------:|:------:|:------:|:------:| 
+|Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
