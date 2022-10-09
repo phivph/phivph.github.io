@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Welcome!"
 output:
   html_document:
     theme: cosmo
@@ -18,10 +18,24 @@ Also, check out the selfie, on the side of this website.
 
 If you are curious about it, you can [*click here to watch my TEDx talk*](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive"), where I explain what is going on! 
 
+## What I do {.tabset}
+Here's a few things that I do in my every day life. 
+This can give you an indication on how we can *collaborate*.
+Please feel free to [contact me](https://phivph.github.io/contact.html) to *establish a collaboration*, *clarify something you saw here* (or elsewhere), or to simply *say hi*!
 
-I'll be back with more! 
+### Research
+Most of my work life is dedicated to scientific research. 
+You can check out the [project tab](https://phivph.github.io/projects.html) to find out the details of my work!
 
-**See you soon!**
+### Science Communication
+I am also very keen on promoting *science communication*. 
+
+I have delivered numerous science communication workshops to scientists, for numerous organisations such as the Cyprus Research and Innovation Foundation. You can check out this [youtube video](https://youtu.be/aT99vnwat8U) as an example from an online workshop.
+
+Another example of passion for science communication, is found in my [TEDx talk]((https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive) 
+
+
+ <br>
 ---
 
 |         |        |        |        |
