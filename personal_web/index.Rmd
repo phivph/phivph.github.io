@@ -7,16 +7,24 @@ output:
 *Research, Science Communication, Teaching, & More*
 ---
 
+<br>
+
+Hi, I am Phivos!
+
+Welcome to my personal webpage. Here you can find out some details, regarding what I do.
+
 <img align="right" width="100" height="200" src="/files/selfillussion.jpg">
 
-Welcome to my personal webpage.
+I am an **experimental psychologist** interested in **cognitive neuroscience**. In short, I spend most of my time bringing people into a lab, having them play some boring video games, while zapping their brain with magnetic pulses, using a machine called, Transcranial Magnetic Stimulator (TMS). 
 
-I am still working on it, so please be patient.
+TMS is a safe, non-invasive, and reliable tool for brain stimulation. I use it to understand how the brain processes visual information. You can read more on that [here](https://phivph.github.io/projects.html).  
 
 
-In the meantime check out the selfie on the right side of this website. 
+I am excited to understand **how we make sense of the world around us**. How does our brain process and store information? For example, why does the selfie on the right side of this website look so weird? 
 
-If you are curious about it, you can [*click here to watch my TEDx talk*](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive"), where I explain what is going on! 
+Can you make sense of it?
+
+If you are curious about what is going on, you can [*click here to watch my TEDx talk*](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive"), where I explain what is happening! 
 
 <br>
 <br>
@@ -27,7 +35,6 @@ If you are curious about it, you can [*click here to watch my TEDx talk*](https:
 
 <img align="left" width="180" height="180" src="/files/mePresenting.jpg">
 
-Hi, I am Phivos Phylactou!
 I am currenlty a **PhD Candidate** in the Department of Rehabilitation Sciences, at Cyprus University of Technology.
 
 I have a BSc in **Psychology**, which I have obtained from Frederick University in 2019, where I graduated as the **Valedictorian**.
@@ -37,6 +44,7 @@ My background in psychology made me curious about the **neuroscientific basis of
 
 <br>
 <br>
+
 
 ### What I do {.tabset}
 Here's a few things that I do in my every day life. 
@@ -53,6 +61,8 @@ Most of my work life is dedicated to scientific research.
 You can check out the [**Projects**](https://phivph.github.io/projects.html) tab to find out the details of my work!
 
 Or, have a look at the [list of my publications](https://phivph.github.io/publications.html), if you don't already have an overwhelming *"to read"* list!
+<br>
+<br>
 
 #### Science Communication
 I am also very keen on promoting *science communication*. 
@@ -60,6 +70,8 @@ I am also very keen on promoting *science communication*.
 I have delivered numerous science communication workshops to scientists, for numerous organisations such as the Cyprus Research and Innovation Foundation. You can check out this [youtube video](https://youtu.be/aT99vnwat8U) as an example from an online workshop.
 
 Another example of passion for science communication, is found in my [TEDx talk](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive), which was given in my hometown, Limassol, as part of a TEDx youth event. 
+<br>
+<br>
 
 #### Non-formal education
 I've had the opportunity to deliver plenty of lectures & trainings.
@@ -71,6 +83,8 @@ One of my favorite kind of teaching approaches, involves non-formal education me
 Non-formal education is an interactive, fun, and creative way to transfer knowledge.
 
 Here's one of my [favorite workshops](https://youtu.be/SNAuX1uYbXM), which I delivered in Germany for Young Friends of the Earth, Europe, in 2019.  
+<br>
+<br>
 
 #### Teaching
 Sharing knowledge and expertise is one of the most fulfilling experiences in my academic journey so far.
@@ -85,6 +99,13 @@ Other courses that I have been involved in, during my teaching assistanships at 
 
 My teaching, is strongly influenced by my non-formal education expertise, as well as by my passion with science communication.
 
+<br>
+<br>
+
+
+
+### Here's an illustration of some of my main skills:
+<img align="center" width="700" height="400" src="/files/skills_funny.png">
 
 
  <br>
@@ -92,4 +113,4 @@ My teaching, is strongly influenced by my non-formal education expertise, as wel
 
 |         |        |        |        |
 |--------:|:------:|:------:|:------:| 
-|Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
+|<font size="5">Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|

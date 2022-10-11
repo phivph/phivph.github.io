@@ -4,6 +4,8 @@ output:
   html_document:
     theme: cosmo
 ---
+<font size="5">
+
 |        |                    |
 |:------:|:--------------------|
 |![twitter icon](/files/twitterLogo.png)|[Follow me on twitter](https://twitter.com/phivph)|
