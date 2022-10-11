@@ -4,7 +4,7 @@ output:
   html_document:
     theme: cosmo
 ---
-<font size="4">
+<font size="5">
 
 |        |                    |
 |:------:|:--------------------|
