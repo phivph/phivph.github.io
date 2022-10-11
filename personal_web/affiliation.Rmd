@@ -13,7 +13,7 @@ I work at the [Brain and Cognitive Science Lab](https://www.nkonstantinou.com/au
  
  
 ### Secondary Affiliation
-I am also part of the School of Science at University of Central Lancashire Cyprus, working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/), a Horizon Europe program funded by the European Commission, which studies the public’s trust in science and the ways in which this trust can be enhanced through responsible research.
+I am also part of the School of Science at [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/), a Horizon Europe program funded by the European Commission, which studies the public’s trust in science and the ways in which this trust can be enhanced through responsible research.
  
  
 ### Previous Affiliations
@@ -25,4 +25,4 @@ Under my affiliation at Frederick University, I published [my first study](http:
 
 |         |        |        |        |
 |--------:|:------:|:------:|:------:| 
-|<font size="5">Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
+|<font size="4">Contact me:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
