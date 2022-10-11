@@ -43,7 +43,7 @@ Even if someone is an experienced driver (i.e., understands the underlying mecha
 
 My academic training in psychology along with my enthusiasm for statistics, has led me to be part of a fruitful consortium, where we **standardize, validate, and create numerous psychometric tools** -mainly in Greek- with clinical applications for the Greek-speaking populations.
 
-<img align="center" width="700" height="400" src="/files/psychometrics.png">
+<img align="center" width="500" height="300" src="/files/psychometrics.png">
 
 
  <br>

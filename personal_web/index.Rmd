@@ -105,7 +105,7 @@ My teaching, is strongly influenced by my non-formal education expertise, as wel
 
 
 ### Here's an illustration of some of my main skills:
-<img align="center" width="700" height="400" src="/files/skills_funny.png">
+<img align="center" width="500" height="300" src="/files/skills_funny.png">
 
 
  <br>
