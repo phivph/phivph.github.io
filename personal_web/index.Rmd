@@ -16,12 +16,14 @@ Welcome to my personal webpage. Here you can find out some details regarding wha
 
 <img align="right" width="100" height="200" src="/files/selfillussion.jpg">
 
-I am an **experimental psychologist** interested in **cognitive neuroscience**. In short, I spend most of my time bringing people into a lab, having them play some boring video games, while zapping their brain with magnetic pulses, using a machine called *Transcranial Magnetic Stimulator* (TMS). 
+I am an **experimental psychologist** interested in **cognitive neuroscience**. In short, I spend most of my time bringing people into a lab, having them play weird, boring, video games, while zapping their brain with magnetic pulses, with the use of a machine called **Transcranial Magnetic Stimulator** (TMS). 
 
-TMS is a safe, non-invasive, and reliable tool for brain stimulation. I use it to understand *how the brain processes visual information*. You can read more on that [here](https://phivph.github.io/projects.html).  
+TMS is a safe, non-invasive, and reliable tool for brain stimulation. I use it to understand **how the brain processes visual information**. You can read more on that [here](https://phivph.github.io/projects.html).
+
+Sometimes, I also like to record people's eyes, using a very precise camera, commonly known as an **eye-tracker**, while they're playing these boring games. With the eye-tracker, I can measure where the eye is looking or how the pupil size is changing with amazing temporal precision, of up to a thousand measures a second!
 
 
-I am excited to understand **how we make sense of the world around us**. How does our brain process and store information? For example, why does the selfie on the right side of this website look so weird? 
+In general, I am excited to understand **how we make sense of the world around us**. How does our brain process and store information? For example, why does the selfie on the right side of this website look so weird? 
 
 Can you make sense of it?
 
@@ -45,7 +47,7 @@ My background in psychology made me curious about the **neuroscientific basis of
 
 
 ### What I do {.tabset}
-Check out the tabs below to get familiarize with a few things that I do in my every day life. 
+Check out the tabs below to get familiar with a few things that I do in my every day life. 
 
 This can give you an indication of how we can **collaborate**.
 
