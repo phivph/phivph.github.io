@@ -2,7 +2,7 @@
 title: "Research Projects"
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
 ---
 ##  {.tabset} 
 ### Visual Short-Term Memory

@@ -2,7 +2,7 @@
 title: "Affiliations"
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
 ---
  
  

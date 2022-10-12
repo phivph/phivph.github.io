@@ -1,13 +1,14 @@
 ---
-title: "***Phivos Phylactou***"
+title: "*Phivos Phylactou*"
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
 ---
 *Research, Science Communication, Teaching, & More*
 ---
-
 <br>
+
+### About me
 
 Hi, I am Phivos!
 
@@ -17,7 +18,7 @@ Welcome to my personal webpage. Here you can find out some details regarding wha
 
 I am an **experimental psychologist** interested in **cognitive neuroscience**. In short, I spend most of my time bringing people into a lab, having them play some boring video games, while zapping their brain with magnetic pulses, using a machine called *Transcranial Magnetic Stimulator* (TMS). 
 
-TMS is a safe, non-invasive, and reliable tool for brain stimulation. I use it to understand how the brain processes visual information. You can read more on that [here](https://phivph.github.io/projects.html).  
+TMS is a safe, non-invasive, and reliable tool for brain stimulation. I use it to understand *how the brain processes visual information*. You can read more on that [here](https://phivph.github.io/projects.html).  
 
 
 I am excited to understand **how we make sense of the world around us**. How does our brain process and store information? For example, why does the selfie on the right side of this website look so weird? 
@@ -27,9 +28,6 @@ Can you make sense of it?
 If you are curious about what is going on, you can [*click here to watch my TEDx talk*](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive"), where I explain what is happening! 
 
 <br>
-<br>
-
-## About me
 
 ### Biosketch
 
@@ -47,7 +45,7 @@ My background in psychology made me curious about the **neuroscientific basis of
 
 
 ### What I do {.tabset}
-Here's a few things that I do in my every day life. 
+Check out the tabs below to get familiarize with a few things that I do in my every day life. 
 
 This can give you an indication of how we can **collaborate**.
 
@@ -90,7 +88,7 @@ Here's one of my [favorite workshops](https://youtu.be/SNAuX1uYbXM), which I del
 <br>
 
 #### Teaching
-##### Teching:
+##### Teaching:
 Sharing knowledge and expertise is one of the most fulfilling experiences in my academic journey so far.
 
 Luckily, I was privileged enough to take on a lot of teaching opportunities, as an invited lecturer, a teaching assistant, and as a lecturer. 

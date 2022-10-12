@@ -1,9 +1,13 @@
 ---
-title: "Phivos Phylactou: Publication List"
+title: "Phivos Phylactou"
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
 ---
+*Publication List*
+---
+
+[Google Scholar](https://scholar.google.com/citations?user=OCLv7cwAAAAJ&hl=en) | [Orcid](https://orcid.org/0000-0002-7333-8761) | [Research Gate](https://www.researchgate.net/profile/Phivos-Phylactou)
 
 <font size="2"> *Note: Please feel free to [contact me](https://phivph.github.io/contact.html) if you cannot access any of the work below* <font size="3">
 
