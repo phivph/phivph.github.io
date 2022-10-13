@@ -3,6 +3,7 @@ title: "Awards Received"
 output:
   html_document:
     theme: yeti
+    css: bg_img.css
 ---
 
 - **Graduate Student Award for [research excellence](https://www.psychonomic.org/page/2021GraduateAwardRecipients)**, *Psychonomic Society*, 2021.

@@ -3,6 +3,7 @@ title: "Contact Details"
 output:
   html_document:
     theme: yeti
+    css: bg_img.css
 ---
 
 
