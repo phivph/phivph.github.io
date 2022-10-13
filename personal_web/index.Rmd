@@ -3,10 +3,13 @@ title: "*Phivos Phylactou*"
 output:
   html_document:
     theme: yeti
+    css: bg_img.css
 ---
 *Research, Science Communication, Teaching, & More*
 ---
 <br>
+
+
 
 ### About me
 
