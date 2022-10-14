@@ -6,12 +6,9 @@ output:
     css: bg_img.css
 ---
 
-
-<font size="5">
-
 |        |                    |
 |:------:|:--------------------|
-|![twitter icon](/files/twitterLogo.png)|[Follow on twitter](https://twitter.com/phivph)|
-|![linkedin icon](/files/linkedInLogo.png)| [Connect on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
-|![email icon](/files/emailLogo.png)|[Drop an email](mailto:pp.phylactou@edu.cut.ac.cy)|
+|![twitter icon](/files/twitterLogo.png)|[<font size="4">Follow on twitter](https://twitter.com/phivph)|
+|![linkedin icon](/files/linkedInLogo.png)| [<font size="4">Connect on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
+|![email icon](/files/emailLogo.png)|[<font size="4">Drop an email](mailto:pp.phylactou@edu.cut.ac.cy)|
 
