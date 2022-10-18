@@ -23,7 +23,9 @@ output:
 
 - Traikapi, A., Kalli, I., Kyriakou, A., Stylianou, E., Symeou, R.T., Kardama, A., Christou, G., **Phylactou, P.**, & Konstantinou, N. (2022). Episodic Memory Effects of Gamma Frequency Precuneus Transcranial Magnetic Stimulation in Alzheimer’s Disease: A Randomized Multiple Baseline Study. *Journal of Neuropsychology* (in principle acceptance: Stage 2 under review) 
 
-- Charalambous, M., **Phylactou, P.**, Kountouri, A.,  Serafeim, M., Psychogios, L., Annoni, J.M., &Kambanaros, M. (2022). Adaptation of the Aphasia Impact Questionnaire-21 into Greek: A Reliability and Validity Study. *Clinical and Translational Neuroscience*. (in press)
+- Charalambous, M., **Phylactou, P.**, Kountouri, A.,  Serafeim, M., Psychogios, L., Annoni, J.M., & Kambanaros, M. (2022). Adaptation of the Aphasia Impact Questionnaire-21 into Greek: A Reliability and Validity Study. *Clinical and Translational Neuroscience*. [https://doi.org/10.3390/ctn6040024](https://doi.org/10.3390/ctn6040024)
+
+- Samsouris, C., Badcock, N., Vlachos, F., **Phylactou, P.**, & Papadatou-Pasou, M. (2022). Registered Report: Cerebral lateralization during handwritten and typed word generation: A functional transcranial Doppler ultrasound study in left- and right-handers. *European Jounral of Neuroscience*. (under review)
 
 - Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S., Antoniou, F., **Phylactou, P.**, Badcock, A. N., & Papadatou-Pastou, M. (2022). Registered Report: Cerebral lateralization of writing in students at risk for dyslexia using functional Transcranial Doppler ultrasonography. *Peer-community In Registered Reports* (under review)
 
@@ -31,15 +33,15 @@ output:
 
 - Papadopoulou, K. A., Vlachos, F., Badcock, A. N., **Phylactou, P.**, & Papadatou-Pastou, M. (2022). Registered Report: Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. *Laterality* (in principle acceptance)
 
-- Charalambous, M., **Phylactou, P.**, Elriz, T., Psychogios, L., Annoni, J.M., & Kambanaros, M. (2022). Adaptation of the Scenario Test for Greek-speaking people with aphasia: A reliability and validity study. *International Journal of Language and Communication Disorders* [https://doi.org/10.1111/1460-6984.12727](https://doi.org/10.1111/1460-6984.12727)
+- Charalambous, M., **Phylactou, P.**, Elriz, T., Psychogios, L., Annoni, J.M., & Kambanaros, M. (2022). Adaptation of the Scenario Test for Greek-speaking people with aphasia: A reliability and validity study. *International Journal of Language and Communication Disorders*, 57(4), 865-880 [https://doi.org/10.1111/1460-6984.12727](https://doi.org/10.1111/1460-6984.12727)
 
-- Charalambous, M., Kountouris, A., **Phylactou, P.**, Triantafyllidou, A., Jean-Marie, A., & Kambanaros, M., (2022). 'Patient Involvement (PI) in Stroke Research. What do chronic stroke survivors, with and without aphasia, think about their involvement as research partners? A thematic analysis. Research Involvement and Engagement, 8 (48) [https://doi.org/10.1186/s40900-022-00379-1](https://doi.org/10.1186/s40900-022-00379-1) 
+- Charalambous, M., Kountouris, A., **Phylactou, P.**, Triantafyllidou, A., Jean-Marie, A., & Kambanaros, M., (2022). 'Patient Involvement (PI) in Stroke Research. What do chronic stroke survivors, with and without aphasia, think about their involvement as research partners? A thematic analysis. *Research Involvement and Engagement*, 8(48) [https://doi.org/10.1186/s40900-022-00379-1](https://doi.org/10.1186/s40900-022-00379-1) 
 
 ### 2021
 - Katsounari, I., **Phylactou, P.**, & Heracleous, H., (2021). *No lost generation: refugee children education in Cyprus*. Hellenic Observatory Papers on Greece and Southeast Europe (161). Hellenic Observatory, London School of Economics and Political Science, London, UK. [https://www.lse.ac.uk/Hellenic-Observatory](https://www.lse.ac.uk/Hellenic-Observatory/Assets/Documents/Publications/GreeSE-Papers/GreeSE-No161.pdf)
 
 ### 2019
-- **Phylactou, P.** (2019). Inside the Mind of Weightlifters: The Mental Preparation of Greek-Cypriot Olympic-Weightlifting Athletes.  Journal of European Psychology Students, 10(3), 1–15. [http://doi.org/10.5334/jeps.466](http://doi.org/10.5334/jeps.466)
+- **Phylactou, P.** (2019). Inside the Mind of Weightlifters: The Mental Preparation of Greek-Cypriot Olympic-Weightlifting Athletes.  *Journal of European Psychology Students*, 10(3), 1–15. [http://doi.org/10.5334/jeps.466](http://doi.org/10.5334/jeps.466)
 
 
  <br>
