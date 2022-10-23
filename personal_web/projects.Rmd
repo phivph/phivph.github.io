@@ -72,6 +72,6 @@ By providing my meta-science expertise, I collaborate with an amazing team worki
 
 <br>
 
-<img align="center" width="900" height="350" src="/files/mylogo_long.png">
+<img align="center" src="/files/mylogo_long.png">
 
 
