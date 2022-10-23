@@ -12,3 +12,6 @@ output:
 |![linkedin icon](/files/linkedInLogo.png)| [<font size="4">Connect on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
 |![email icon](/files/emailLogo.png)|[<font size="4">Drop an email](mailto:pp.phylactou@edu.cut.ac.cy)|
 
+<br>
+
+<img align="center" width="900" height="350" src="/files/mylogo_long.png">
