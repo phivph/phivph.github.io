@@ -11,7 +11,7 @@ output:
 
 <font size="2"> *Please feel free to [contact me](https://phivph.github.io/contact.html) if you cannot access any of the work below* <font size="3">
 
-## Year {.tabset}
+## Year {.tabset .tabset-fade}
 
 ### 2022
 - **Phylactou, P.**, Traikapi, A., Papadatou-Pastou, M., & Konstantinou, N. (2022). Sensory Recruitment in Visual Short-Term Memory: A Systematic Review and Meta-Analysis of Sensory Visual Cortex Interference Using Transcranial Magnetic Stimulation. *Psychonomic Bulletin & Review*, 29, 1594-1624 [https://doi.org/10.3758/s13423-022-02107-y](https://doi.org/10.3758/s13423-022-02107-y)
