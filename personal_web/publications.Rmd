@@ -18,7 +18,7 @@ output:
 
 - Traikapi, A., **Phylactou, P.**, & Konstantinou, N. (2022). Repetitive Transcranial Magnetic Stimulation of the Human Motor Cortex in the Gamma Band Reduces Cortical Excitability. *Neurophysiologie Clinique* [https://doi.org/10.1016/j.neucli.2022.09.005](https://doi.org/10.1016/j.neucli.2022.09.005)
 
-- Traikapi, A., Kalli, I., Kyriakou, A., Stylianou, E., Symeou, R.T., Kardama, A., Christou, G., **Phylactou, P.**, & Konstantinou, N. (2022). Episodic Memory Effects of Gamma Frequency Precuneus Transcranial Magnetic Stimulation in Alzheimer’s Disease: A Randomized Multiple Baseline Study. *Journal of Neuropsychology* (in press) 
+- Traikapi, A., Kalli, I., Kyriakou, A., Stylianou, E., Symeou, R.T., Kardama, A., Christou, G., **Phylactou, P.**, & Konstantinou, N. (2022). Episodic Memory Effects of Gamma Frequency Precuneus Transcranial Magnetic Stimulation in Alzheimer’s Disease: A Randomized Multiple Baseline Study. *Journal of Neuropsychology*, 00, 1-23 [https://doi.org/10.1111/jnp.12299](https://doi.org/10.1111/jnp.12299)
 
 - Charalambous, M., **Phylactou, P.**, Kountouri, A.,  Serafeim, M., Psychogios, L., Annoni, J.M., & Kambanaros, M. (2022). Adaptation of the Aphasia Impact Questionnaire-21 into Greek: A Reliability and Validity Study. *Clinical and Translational Neuroscience*. [https://doi.org/10.3390/ctn6040024](https://doi.org/10.3390/ctn6040024)
 
