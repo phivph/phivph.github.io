@@ -43,6 +43,8 @@ output:
 
 - Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou, S., Antoniou, F., Pervanidou, P., **Phylactou, P.**, Vlachos, F., Badcock, A. N., & Papadatou-Pastou, M. (OSF registration). Registered Report: The effects of educational interventions in the cerebral lateralization for written language in children at risk for dyslexia: A functional transcranial Doppler ultrasound study. *Open Science Framework*
 
+### Preprints
+- **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv*. [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c)
  
 ## 
 
