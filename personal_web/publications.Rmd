@@ -45,7 +45,9 @@ output:
 
 ### Preprints
 - **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv*. [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c)
- 
+
+- **Phylactou, P.**, Papadatou-Pastou, M., & Konstantinou, N. (2022). The Bayesian One-sample t-Test Supersedes Correlation Analysis as a Test of Validity. *PsyArXiv*. [http://doi.org/10.31234/osf.io/dru53](http://doi.org/10.31234/osf.io/dru53)
+
 ## 
 
 <br>
