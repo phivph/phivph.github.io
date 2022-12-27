@@ -13,7 +13,7 @@
 
 <title>Publication List</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="bg_img.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -171,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -180,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -289,13 +290,23 @@ cannot access any of the work below</em> <font size="3"></p>
 <div id="year" class="section level2 tabset tabset-fade">
 <h2 class="tabset tabset-fade">Year</h2>
 <div id="section" class="section level3">
+<h3>2023</h3>
+<ul>
+<li><strong>Phylactou, P.</strong>, Traikapi, A., &amp; Konstantinou, N.
+(2023). One in four people fail to perceive phosphenes during early
+visual cortex transcranial magnetic stimulation. <em>Brain Stimulation:
+Basic, Translational, and Clinical Research in Neuromodulation</em> <a
+href="https://doi.org/10.1016/j.brs.2022.12.012">https://doi.org/10.1016/j.brs.2022.12.012</a></li>
+</ul>
+</div>
+<div id="section-1" class="section level3">
 <h3>2022</h3>
 <ul>
 <li><p><strong>Phylactou, P.</strong>, Traikapi, A., Papadatou-Pastou,
 M., &amp; Konstantinou, N. (2022). Sensory Recruitment in Visual
 Short-Term Memory: A Systematic Review and Meta-Analysis of Sensory
 Visual Cortex Interference Using Transcranial Magnetic Stimulation.
-<em>Psychonomic Bulletin &amp; Review</em>, 29, 1594-1624 <a
+<em>Psychonomic Bulletin &amp; Review</em> <a
 href="https://doi.org/10.3758/s13423-022-02107-y">https://doi.org/10.3758/s13423-022-02107-y</a></p></li>
 <li><p>Traikapi, A., <strong>Phylactou, P.</strong>, &amp; Konstantinou,
 N. (2022). Repetitive Transcranial Magnetic Stimulation of the Human
@@ -306,48 +317,48 @@ href="https://doi.org/10.1016/j.neucli.2022.09.005">https://doi.org/10.1016/j.ne
 R.T., Kardama, A., Christou, G., <strong>Phylactou, P.</strong>, &amp;
 Konstantinou, N. (2022). Episodic Memory Effects of Gamma Frequency
 Precuneus Transcranial Magnetic Stimulation in Alzheimer’s Disease: A
-Randomized Multiple Baseline Study. <em>Journal of Neuropsychology</em>,
-00, 1-23 <a
+Randomized Multiple Baseline Study. <em>Journal of Neuropsychology</em>
+<a
 href="https://doi.org/10.1111/jnp.12299">https://doi.org/10.1111/jnp.12299</a></p></li>
 <li><p>Charalambous, M., <strong>Phylactou, P.</strong>, Kountouri, A.,
 Serafeim, M., Psychogios, L., Annoni, J.M., &amp; Kambanaros, M. (2022).
 Adaptation of the Aphasia Impact Questionnaire-21 into Greek: A
 Reliability and Validity Study. <em>Clinical and Translational
-Neuroscience</em>. <a
+Neuroscience</em> <a
 href="https://doi.org/10.3390/ctn6040024">https://doi.org/10.3390/ctn6040024</a></p></li>
 <li><p>Charalambous, M., <strong>Phylactou, P.</strong>, Elriz, T.,
 Psychogios, L., Annoni, J.M., &amp; Kambanaros, M. (2022). Adaptation of
 the Scenario Test for Greek-speaking people with aphasia: A reliability
 and validity study. <em>International Journal of Language and
-Communication Disorders</em>, 57(4), 865-880 <a
+Communication Disorders</em> <a
 href="https://doi.org/10.1111/1460-6984.12727">https://doi.org/10.1111/1460-6984.12727</a></p></li>
 <li><p>Charalambous, M., Kountouris, A., <strong>Phylactou, P.</strong>,
 Triantafyllidou, A., Jean-Marie, A., &amp; Kambanaros, M., (2022).
 ’Patient Involvement (PI) in Stroke Research. What do chronic stroke
 survivors, with and without aphasia, think about their involvement as
 research partners? A thematic analysis. <em>Research Involvement and
-Engagement</em>, 8(48) <a
+Engagement</em> <a
 href="https://doi.org/10.1186/s40900-022-00379-1">https://doi.org/10.1186/s40900-022-00379-1</a></p></li>
 </ul>
 </div>
-<div id="section-1" class="section level3">
+<div id="section-2" class="section level3">
 <h3>2021</h3>
 <ul>
 <li>Katsounari, I., <strong>Phylactou, P.</strong>, &amp; Heracleous,
 H., (2021). <em>No lost generation: refugee children education in
 Cyprus</em>. Hellenic Observatory Papers on Greece and Southeast Europe
 (161). Hellenic Observatory, London School of Economics and Political
-Science, London, UK. <a
+Science, London, UK <a
 href="https://www.lse.ac.uk/Hellenic-Observatory/Assets/Documents/Publications/GreeSE-Papers/GreeSE-No161.pdf">https://www.lse.ac.uk/Hellenic-Observatory</a></li>
 </ul>
 </div>
-<div id="section-2" class="section level3">
+<div id="section-3" class="section level3">
 <h3>2019</h3>
 <ul>
 <li><strong>Phylactou, P.</strong> (2019). Inside the Mind of
 Weightlifters: The Mental Preparation of Greek-Cypriot
 Olympic-Weightlifting Athletes. <em>Journal of European Psychology
-Students</em>, 10(3), 1–15. <a
+Students</em> <a
 href="http://doi.org/10.5334/jeps.466">http://doi.org/10.5334/jeps.466</a></li>
 </ul>
 </div>
@@ -368,7 +379,7 @@ ultrasound investigation. <em>Laterality</em></p></li>
 P.</strong>, &amp; Papadatou-Pasou, M. (under review). Registered
 Report: Cerebral lateralization during handwritten and typed word
 generation: A functional transcranial Doppler ultrasound study in left-
-and right-handers. <em>European Jounral of Neuroscience</em>.</p></li>
+and right-handers. <em>European Jounral of Neuroscience</em></p></li>
 <li><p>Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S.,
 Antoniou, F., <strong>Phylactou, P.</strong>, Badcock, A. N., &amp;
 Papadatou-Pastou, M. (under review). Registered Report: Cerebral
@@ -390,16 +401,16 @@ ultrasound study. <em>Open Science Framework</em></p></li>
 <li><p><strong>Phylactou, P.</strong>, &amp; Konstantinou, N. (2022).
 Bayesian T-Test Sample Size Determination: Reference Tables for Various
 Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance
-Assumptions. <em>PsyArXiv</em>. <a
+Assumptions. <em>PsyArXiv</em> <a
 href="http://doi.org/10.31234/osf.io/jnp8c">http://doi.org/10.31234/osf.io/jnp8c</a></p></li>
 <li><p><strong>Phylactou, P.</strong>, Papadatou-Pastou, M., &amp;
 Konstantinou, N. (2022). The Bayesian One-sample t-Test Supersedes
-Correlation Analysis as a Test of Validity. <em>PsyArXiv</em>. <a
+Correlation Analysis as a Test of Validity. <em>PsyArXiv</em> <a
 href="http://doi.org/10.31234/osf.io/dru53">http://doi.org/10.31234/osf.io/dru53</a></p></li>
 </ul>
 </div>
 </div>
-<div id="section-3" class="section level2">
+<div id="section-4" class="section level2">
 <h2></h2>
 <p><br></p>
 <table>
