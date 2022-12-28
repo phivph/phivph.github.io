@@ -38,11 +38,11 @@ output:
 ### Registered Reports
 - **Phylactou, P.**, Shimi, A., & Konstantinou, N. (in principle acceptance). Registered Report: Causal evidence for the role of the sensory visual cortex in visual short-term memory maintenance. *Peer Community In Registered Reports* [https://osf.io/d9bqk/](https://osf.io/d9bqk/) 
 
+- Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S., Antoniou, F., **Phylactou, P.**, Badcock, A. N., & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Cerebral lateralization of writing in students at risk for dyslexia using functional Transcranial Doppler ultrasonography. *Peer-community In Registered Reports* [https://osf.io/u54tk](https://osf.io/u54tk)
+
 - Papadopoulou, K. A., Vlachos, F., Badcock, A. N., **Phylactou, P.**, & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. *Laterality*
 
 - Samsouris, C., Badcock, N., Vlachos, F., **Phylactou, P.**, & Papadatou-Pasou, M. (under review). Registered Report: Cerebral lateralization during handwritten and typed word generation: A functional transcranial Doppler ultrasound study in left- and right-handers. *European Jounral of Neuroscience*
-
-- Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S., Antoniou, F., **Phylactou, P.**, Badcock, A. N., & Papadatou-Pastou, M. (under review). Registered Report: Cerebral lateralization of writing in students at risk for dyslexia using functional Transcranial Doppler ultrasonography. *Peer-community In Registered Reports* 
 
 - Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou, S., Antoniou, F., Pervanidou, P., **Phylactou, P.**, Vlachos, F., Badcock, A. N., & Papadatou-Pastou, M. (OSF registration). Registered Report: The effects of educational interventions in the cerebral lateralization for written language in children at risk for dyslexia: A functional transcranial Doppler ultrasound study. *Open Science Framework*
 
