@@ -36,7 +36,7 @@ output:
 - **Phylactou, P.** (2019). Inside the Mind of Weightlifters: The Mental Preparation of Greek-Cypriot Olympic-Weightlifting Athletes.  *Journal of European Psychology Students* [http://doi.org/10.5334/jeps.466](http://doi.org/10.5334/jeps.466)
 
 ### Registered Reports
-- **Phylactou, P.**, Shimi, A., & Konstantinou, N. (in principle acceptance). Registered Report: Causal evidence for the role of the sensory visual cortex in visual short-term memory maintenance. *Peer Community In Registered Reports* [https://osf.io/d9bqk/](https://osf.io/d9bqk/) 
+- **Phylactou, P.**, Shimi, A., & Konstantinou, N. (in principle acceptance). Registered Report: Causal evidence for the role of the sensory visual cortex in visual short-term memory maintenance. *Peer Community In Registered Reports* [https://osf.io/d9bqk/](https://osf.io/d9bqk/) [Stage 2 under review]
 
 - Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S., Antoniou, F., **Phylactou, P.**, Badcock, A. N., & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Cerebral lateralization of writing in students at risk for dyslexia using functional Transcranial Doppler ultrasonography. *Peer-community In Registered Reports* [https://osf.io/u54tk](https://osf.io/u54tk)
 
@@ -47,7 +47,9 @@ output:
 - Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou, S., Antoniou, F., Pervanidou, P., **Phylactou, P.**, Vlachos, F., Badcock, A. N., & Papadatou-Pastou, M. (OSF registration). Registered Report: The effects of educational interventions in the cerebral lateralization for written language in children at risk for dyslexia: A functional transcranial Doppler ultrasound study. *Open Science Framework*
 
 ### Preprints
-- **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv* [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c)
+-	**Phylactou, P.** (under review). P-Values or Bayes Factors? Whichever, but not Both. *Collabra: Psychology*
+
+- **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv* [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c) [under review in *Behavior Research Methods*]
 
 - **Phylactou, P.**, Papadatou-Pastou, M., & Konstantinou, N. (2022). The Bayesian One-sample t-Test Supersedes Correlation Analysis as a Test of Validity. *PsyArXiv* [http://doi.org/10.31234/osf.io/dru53](http://doi.org/10.31234/osf.io/dru53)
 

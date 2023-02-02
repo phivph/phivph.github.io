@@ -7,20 +7,28 @@ output:
 ---
 
 
-##  {.tabset .tabset-fade} 
+##  {.tabset .tabset-dropdown} 
 ### Visual Short-Term Memory
 My main research interest is focused on **understanding the nerual architecture of visual short-term memory**. How are visual representations stored during working memory?
 
 To study this, I combine **behavioral experiments** (think of these like some sort of very boring video games) with various technologies, such as **transcranial magnetic stimulation** (TMS), **eye-tracking**, and **brain imaging**. 
 
-The main tool I employ is TMS, which is a non-invasive, reliable, and safe tool to induce brain stimulation with high temporal & spatial resolution.
+The main tool I employ is TMS, which is a non-invasive, reliable, and safe tool to induce brain stimulation with high temporal & spatial resolution. If you are curious about how I do this, but you want the lay-person version of the explanation, you can [**check out my TEDx talk**](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive").
 
 An animated example of a TMS paradigm is shown below:
 
 <img align="center" src="/files/TMS_example.gif">
 
+### Statistical Methods for Psychology
+I also enjoy conducting **simulations** that illustrate **methodological** and **statistical** issues, which could inform the broader field of psychology.
+
+My main motivation for this is the **replication crisis** of psychology, which became a popular topic of discussion during the time that I was discovering my passion for psychological research. Partly, I was inspired by the book [*The Seven Deadly Sins of Psychology*](https://books.google.com.cy/books/about/The_Seven_Deadly_Sins_of_Psychology.html?id=fPqVDwAAQBAJ&redir_esc=y) by Chris Chambers.
+
+Through this work I try to tackle issues concerning the use of *p*-values and *Bayes Factors*, Bayesian sample size determination, statistical software reliability, and others.
+
+
 ### Trust in Science
-In February 2023, I will officially begin my collaboration as a Research Scientist, with the University of Central Lancashire Cyprus (UCLan), working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/).
+At the [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), I am working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/).
 
 VERITAS is a **Horizon Europe** program funded by the European Commission, aiming to understand the **public’s trust in science** and the ways in which this trust can be **enhanced through responsible research**.
 
