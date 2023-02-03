@@ -2,7 +2,7 @@
 title: "*Phivos Phylactou*"
 output:
   html_document:
-    theme: yeti
+    theme: cosmo
     css: bg_img.css
 ---
 *Research, Science Communication, Teaching, & More*
@@ -64,9 +64,9 @@ Please feel free to [contact me](https://phivph.github.io/contact.html) to estab
 ##### Research:
 Most of my work life is dedicated to scientific research.
 
-You can check out the [**Projects**](https://phivph.github.io/projects.html) tab to find out the details of my work!
+You can check out the [Projects](https://phivph.com/projects.html) section to find out the details of my work!
 
-Or, have a look at the [list of my publications](https://phivph.github.io/publications.html), if you don't already have an overwhelming *"to read"* list!
+Or, have a look at the [list of my publications](https://phivph.com/publications.html), if you don't already have an overwhelming *"to read"* list!
 <br>
 <br>
 
@@ -74,9 +74,9 @@ Or, have a look at the [list of my publications](https://phivph.github.io/public
 ##### Science Communication:
 I am also very keen on promoting *science communication*. 
 
-I have delivered numerous science communication workshops to scientists, for numerous organisations such as the Cyprus Research and Innovation Foundation. You can check out this [youtube video](https://youtu.be/aT99vnwat8U) as an example from an online workshop.
+I have delivered various science communication workshops to scientists, for numerous organisations such as the Cyprus Research and Innovation Foundation. You can check out this [youtube video](https://youtu.be/aT99vnwat8U) as an example from an online workshop.
 
-Another example of passion for science communication, is found in my [TEDx talk](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive), which was given in my hometown, Limassol, as part of a TEDx youth event. 
+Another example of my passion for science communication, is found in my [TEDx talk](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive), which was given in my hometown, Limassol, as part of a TEDx youth event. 
 <br>
 <br>
 
@@ -84,9 +84,9 @@ Another example of passion for science communication, is found in my [TEDx talk]
 ##### Non-formal education:
 I've had the opportunity to deliver plenty of lectures & trainings.
 
-Either as part of my course teaching, as an invited speaker, or during other events (e.g., Erasmus+ projects)
+Either as part of university teaching, as an invited speaker, or during other events (e.g., Erasmus+ projects)
 
-One of my favorite kind of teaching approaches, involves non-formal education methods. As a matter of fact, I try to embrace such methods in almost all of my teachings. 
+One of my favorite approach for teaching, involves non-formal education methods. As a matter of fact, I try to embrace such methods in almost all of my teachings. 
 
 Non-formal education is an interactive, fun, and creative way to transfer knowledge.
 
@@ -104,7 +104,7 @@ This has helped me develop my own teaching philosophy & style.
 
 Currently, I am a visiting lecturer at Frederick University, in Cyprus, where I teach **Psychology of Learning** and **Developmental Psychology** to nursery students.
 
-Other courses that I have been involved in, during my teaching assistanships at the Cyprus University of Technology, include **Cognitive Neuroscience** & **Non-Invasive Brain Stimulation**.
+Other courses that I have been involved in, during my teaching assistanships at the Cyprus University of Technology, include **Cognitive Neuroscience**, **Non-Invasive Brain Stimulation**, **Research Methods**, and **Statistics**.
 
 My teaching, is strongly influenced by my non-formal education expertise, as well as by my passion with science communication.
 
