@@ -25,8 +25,8 @@ Under my affiliation at Frederick University, I published [my first study](http:
 
 <br>
 
-|         |        |        |        |
-|--------:|:------:|:------:|:------:| 
+|         |        |        |        |        |
+|--------:|:------:|:------:|:------:|:------:| 
 |<font size="5">Contact:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![mastodon](/files/mastodonLogo.png)](https://mastodon.social/@phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
 
 <br>
