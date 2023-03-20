@@ -2,8 +2,9 @@
 title: "Publication List"
 output:
   html_document:
-    theme: cosmo
-    css: bg_img.css
+    theme: null
+    highlight: null
+    css: pulse.css
 ---
 
 
