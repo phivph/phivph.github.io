@@ -9,7 +9,7 @@ output:
 ---
 <br>
 
-
+<img align="center" src="/files/color-change.gif">
 
 ### About me
 
@@ -38,11 +38,11 @@ If you are curious about what is going on, you can [*click here to watch my TEDx
 
 <img align="left" width="180" height="180" src="/files/mePresenting.jpg">
 
-I am currenlty a **PhD Candidate** in the [Department of Rehabilitation Sciences](https://www.cut.ac.cy/faculties/hsc/reh/staff/postresearcher/pp.phylactou/), at Cyprus University of Technology, working in the [Brain and Cognitive Science Lab](https://www.nkonstantinou.com). 
+I am currently working as a researcher in the [Brain and Cognitive Science Lab](https://www.nkonstantinou.com), which is housed in the [Department of Rehabilitation Sciences](https://www.cut.ac.cy/faculties/hsc/reh/staff/postresearcher/pp.phylactou/), at Cyprus University of Technology. 
 
-I also work as a research scientist in the School of Science at [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), working on [VERITAS](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/), a Horizon Europe program that studies the public’s trust in science.
+I also work as a research scientist in the School of Science at [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), working on [VERITY](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/), a Horizon Europe program that studies the public’s trust in science.
 
-I have a BSc in **Psychology**, which I have obtained from Frederick University in 2019, where I graduated as the **Valedictorian**. My graduation address can be [found here](https://www.youtube.com/watch?v=TCqeY3iD7RA) (in Greek).
+In 2023, I received my PhD from the Cyprus University of Technology, which I entered after I obtained my BSc in **Psychology**, from Frederick University in 2019, where I graduated as the **Valedictorian**. My graduation address can be [found here](https://www.youtube.com/watch?v=TCqeY3iD7RA) (in Greek).
 
 My background in psychology made me curious about the **neuroscientific basis of cognitive processes**. Therefore, I am keen on investigating the neurologically healthy or damaged brain to discover basic neuroscientific evidence about perception, memory, and attention, with the use of **non-invasive brain stimulation techniques, eye-tracking, brain imaging, and behavioral experiments**. I also promote **science communication** and **open science practices**. 
 

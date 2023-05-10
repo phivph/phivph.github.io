@@ -6,7 +6,6 @@ output:
     css: bg_img.css
 ---
 
-
 [Google Scholar](https://scholar.google.com/citations?user=OCLv7cwAAAAJ&hl=en) | [Orcid](https://orcid.org/0000-0002-7333-8761) | [Research Gate](https://www.researchgate.net/profile/Phivos-Phylactou)
 
 <font size="2"> *Please feel free to [contact me](https://phivph.github.io/contact.html) if you cannot access any of the work below* <font size="3">
@@ -14,6 +13,8 @@ output:
 ## Year {.tabset .tabset-fade}
 
 ### 2023
+- **Phylactou, P.**, Shimi, A., & Konstantinou, N. (2023). Causal evidence for the role of the sensory visual cortex in visual short-term memory maintenance. *Royal Society Open Science* [https://doi.org/10.1098/rsos.230321](https://doi.org/10.1098/rsos.230321)
+
 - **Phylactou, P.**, Traikapi, A., & Konstantinou, N. (2023). One in four people fail to perceive phosphenes during early visual cortex transcranial magnetic stimulation. *Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation*  [https://doi.org/10.1016/j.brs.2022.12.012](https://doi.org/10.1016/j.brs.2022.12.012)
 
 ### 2022
@@ -36,8 +37,6 @@ output:
 - **Phylactou, P.** (2019). Inside the Mind of Weightlifters: The Mental Preparation of Greek-Cypriot Olympic-Weightlifting Athletes.  *Journal of European Psychology Students* [http://doi.org/10.5334/jeps.466](http://doi.org/10.5334/jeps.466)
 
 ### Registered Reports
-- **Phylactou, P.**, Shimi, A., & Konstantinou, N. (in principle acceptance). Registered Report: Causal evidence for the role of the sensory visual cortex in visual short-term memory maintenance. *Peer Community In Registered Reports* [https://osf.io/d9bqk/](https://osf.io/d9bqk/) [Stage 2 under review]
-
 - Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S., Antoniou, F., **Phylactou, P.**, Badcock, A. N., & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Cerebral lateralization of writing in students at risk for dyslexia using functional Transcranial Doppler ultrasonography. *Peer-community In Registered Reports* [https://osf.io/u54tk](https://osf.io/u54tk)
 
 - Papadopoulou, K. A., Vlachos, F., Badcock, A. N., **Phylactou, P.**, & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. *Laterality*
@@ -47,9 +46,8 @@ output:
 - Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou, S., Antoniou, F., Pervanidou, P., **Phylactou, P.**, Vlachos, F., Badcock, A. N., & Papadatou-Pastou, M. (OSF registration). Registered Report: The effects of educational interventions in the cerebral lateralization for written language in children at risk for dyslexia: A functional transcranial Doppler ultrasound study. *Open Science Framework*
 
 ### Preprints
--	**Phylactou, P.** (under review). P-Values or Bayes Factors? Whichever, but not Both. *Collabra: Psychology*
 
-- **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv* [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c) [under review in *Behavior Research Methods*]
+- **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv* [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c)
 
 - **Phylactou, P.**, Papadatou-Pastou, M., & Konstantinou, N. (2022). The Bayesian One-sample t-Test Supersedes Correlation Analysis as a Test of Validity. *PsyArXiv* [http://doi.org/10.31234/osf.io/dru53](http://doi.org/10.31234/osf.io/dru53)
 
