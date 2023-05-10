@@ -7,9 +7,11 @@ output:
 ---
 *Research, Science Communication, Teaching, & More*
 ---
+
+
 <br>
 
-<img align="center" src="/files/color-change.gif">
+
 
 ### About me
 
