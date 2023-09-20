@@ -6,6 +6,8 @@ output:
     css: bg_img.css
 ---
 
+- **Postdoctoral Associate Recruitment Award**, *Faculty of Health Sciences, University of Western Ontario*, 2023.
+
 - **Travel grant**, *European Conference on Visual Perception*, 2022.
 
 - **Youth Initiative travel grant**, *Youth Board of Cyprus*, 2022.
