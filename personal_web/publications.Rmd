@@ -36,7 +36,13 @@ output:
 ### 2019
 - **Phylactou, P.** (2019). Inside the Mind of Weightlifters: The Mental Preparation of Greek-Cypriot Olympic-Weightlifting Athletes.  *Journal of European Psychology Students* [http://doi.org/10.5334/jeps.466](http://doi.org/10.5334/jeps.466)
 
-### Registered Reports
+### Registrations
+- **Phylactou, P.**, Seminowicz, D. A., & Schabrun, S. M. (OSF registration). A Meta-Analytic Investigation of the Correlation Between Resting Motor and Phosphene Thresholds. *Open Science Framework* [https://doi.org/10.17605/OSF.IO/TU6KH](https://doi.org/10.17605/OSF.IO/TU6KH)
+
+- Pagkratidou, M., Cohn, N., **Phylactou, P.**, Papadatou-Pastou, M., & Duffy, G. (Stage 1 under review). Learning from comics versus non-comics material in education: Systematic review and meta-analysis. *Peer-community In Registered Reports*  [https://doi.org/10.31222/osf.io/ceda3](https://doi.org/10.31222/osf.io/ceda3)
+
+- Georgiou, A. M., **Phylactou, P.**, & Kambanaros, M. (PROSPERO registration). The Effectiveness of Transcranial Magnetic Stimulation (TMS) for Dysphagia in Stroke Patients: An Umbrella Review of Systematic Reviews (SRs) and Meta-analyses (MAs). *PROSPERO* [https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42023445474](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42023445474)  
+
 - Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S., Antoniou, F., **Phylactou, P.**, Badcock, A. N., & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Cerebral lateralization of writing in students at risk for dyslexia using functional Transcranial Doppler ultrasonography. *Peer-community In Registered Reports* [https://osf.io/u54tk](https://osf.io/u54tk)
 
 - Papadopoulou, K. A., Vlachos, F., Badcock, A. N., **Phylactou, P.**, & Papadatou-Pastou, M. (in principle acceptance). Registered Report: Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. *Laterality*
@@ -46,6 +52,8 @@ output:
 - Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou, S., Antoniou, F., Pervanidou, P., **Phylactou, P.**, Vlachos, F., Badcock, A. N., & Papadatou-Pastou, M. (OSF registration). Registered Report: The effects of educational interventions in the cerebral lateralization for written language in children at risk for dyslexia: A functional transcranial Doppler ultrasound study. *Open Science Framework*
 
 ### Preprints
+
+- **Phylactou, P.** (2023). P-Values or Bayes Factors? Whichever, but not Both. *PsyArXiv* [https://doi.org/10.31234/osf.io/dthns](https://doi.org/10.31234/osf.io/dthns)
 
 - **Phylactou, P.**, & Konstantinou, N. (2022). Bayesian T-Test Sample Size Determination: Reference Tables for Various Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance Assumptions. *PsyArXiv* [http://doi.org/10.31234/osf.io/jnp8c](http://doi.org/10.31234/osf.io/jnp8c)
 
