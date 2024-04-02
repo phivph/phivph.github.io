@@ -8,8 +8,9 @@ output:
 
 |        |                    |
 |:------:|:--------------------|
-|![twitter icon](/files/twitterLogo.png)|[<font size="4">Follow on twitter](https://twitter.com/phivph)|
-|![mastodon icon](/files/mastodonLogo.png)|[<font size="4">Follow on mastodon](https://mastodon.social/@phivph)|
+|![twitter icon](/files/twitterLogo.png)|[<font size="4">Follow on X](https://twitter.com/phivph)|
+|![mastodon icon](/files/mastodonLogo.png)|[<font size="4">Follow on Mastodon](https://mastodon.social/@phivph)|
+|![bluesky icon](/files/blueskyLogo.png)|[<font size="4">Follow on BlueSky](https://bsky.app/profile/phivph.bsky.social)
 |![linkedin icon](/files/linkedInLogo.png)| [<font size="4">Connect on LinkedIn](https://www.linkedin.com/in/phivos-phylactou-137113176/)|
 |![email icon](/files/emailLogo.png)|[<font size="4">Drop an email](mailto:pp.phylactou@edu.cut.ac.cy)|
 

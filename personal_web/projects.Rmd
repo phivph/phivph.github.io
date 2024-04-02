@@ -9,9 +9,9 @@ output:
 
 ##  {.tabset .tabset-dropdown} 
 ### Visual Short-Term Memory
-My main research interest is focused on **understanding the nerual architecture of visual short-term memory**. How are visual representations stored during working memory?
+My main research interest is focused on **understanding the neural architecture of visual short-term memory**. How are visual representations stored during working memory?
 
-To study this, I combine **behavioral experiments** (think of these like some sort of very boring video games) with various technologies, such as **transcranial magnetic stimulation** (TMS), **eye-tracking**, and **brain imaging**. 
+To study this, I combine **behavioral experiments** (think of these like some sort of very boring video games) with various technologies, such as **transcranial magnetic stimulation** (TMS), **eye-tracking**, and **brain imaging** (EEG). 
 
 The main tool I employ is TMS, which is a non-invasive, reliable, and safe tool to induce brain stimulation with high temporal & spatial resolution. If you are curious about how I do this, but you want the lay-person version of the explanation, you can [**check out my TEDx talk**](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive").
 
@@ -26,15 +26,6 @@ My main motivation for this is the **replication crisis** of psychology, which b
 
 Through this work I try to tackle issues concerning the use of *p*-values and *Bayes Factors*, Bayesian sample size determination, statistical software reliability, and others.
 
-
-### Trust in Science
-At the [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), I am working on [VERITY](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/).
-
-VERITY is a **Horizon Europe** program funded by the European Commission, aiming to understand the **public’s trust in science** and the ways in which this trust can be **enhanced through responsible research**.
-
-VERITY comprises of a consortium of **seven partners**, from seven European countries: Trilateral Research (United Kingdom and Ireland), EUREC Office (Germany), Science Business (Belgium), Centre for Social Innovation (Austria), UCLan Cyprus (Cyprus), and University of West Attica (Greece).
-
-My contribution to VERITY is mainly related to the implementation of **quantitative meta-scientific methods** (i.e., meta-analyses).
 
 ### Laterality
 Did you notice that, as humans, **we are extremely asymmetric**?
