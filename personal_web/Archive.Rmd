@@ -1,0 +1,18 @@
+---
+title: "Archive"
+output:
+  html_document:
+    theme: cosmo
+    css: bg_img.css
+---
+
+From 'Projects' removed on Apr 1 2024:
+
+### Trust in Science
+At the [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), I am working on [VERITY](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/).
+
+VERITY is a **Horizon Europe** program funded by the European Commission, aiming to understand the **public’s trust in science** and the ways in which this trust can be **enhanced through responsible research**.
+
+VERITY comprises of a consortium of **seven partners**, from seven European countries: Trilateral Research (United Kingdom and Ireland), EUREC Office (Germany), Science Business (Belgium), Centre for Social Innovation (Austria), UCLan Cyprus (Cyprus), and University of West Attica (Greece).
+
+My contribution to VERITY is mainly related to the implementation of **quantitative meta-scientific methods** (i.e., meta-analyses).
