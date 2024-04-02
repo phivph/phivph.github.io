@@ -65,9 +65,9 @@ By providing my meta-science expertise, I collaborate with an amazing team worki
 
 <br>
 
-|         |        |        |        |        |
-|--------:|:------:|:------:|:------:|:------:| 
-|<font size="5">Contact:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![mastodon](/files/mastodonLogo.png)](https://mastodon.social/@phivph)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
+|         |        |        |        |        |        |
+|--------:|:------:|:------:|:------:|:------:|:------:|  
+|<font size="5">Contact:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![mastodon](/files/mastodonLogo.png)](https://mastodon.social/@phivph)|[![bluesky](/files/blueskyLogo.png)](https://bsky.app/profile/phivph.bsky.social)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
 
 <br>
 
