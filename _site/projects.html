@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research Projects</title>
+
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="bg_img.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Phivos Phylactou</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="awards.html">Awards</a>
+</li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Research Projects</h1>
+
+</div>
+
+
+<div id="section" class="section level2 tabset tabset-dropdown">
+<h2 class="tabset tabset-dropdown"></h2>
+<div id="visual-short-term-memory" class="section level3">
+<h3>Visual Short-Term Memory</h3>
+<p>My main research interest is focused on <strong>understanding the
+neural architecture of visual short-term memory</strong>. How are visual
+representations stored during working memory?</p>
+<p>To study this, I combine <strong>behavioral experiments</strong>
+(think of these like some sort of very boring video games) with various
+technologies, such as <strong>transcranial magnetic stimulation</strong>
+(TMS), <strong>eye-tracking</strong>, and <strong>brain imaging</strong>
+(EEG).</p>
+<p>The main tool I employ is TMS, which is a non-invasive, reliable, and
+safe tool to induce brain stimulation with high temporal &amp; spatial
+resolution. If you are curious about how I do this, but you want the
+lay-person version of the explanation, you can <a
+href="https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive"
+title="Beyond what our Eyes Perceive"><strong>check out my TEDx
+talk</strong></a>.</p>
+<p>An animated example of a TMS paradigm is shown below:</p>
+<p><img align="center" src="/files/TMS_example.gif"></p>
+</div>
+<div id="statistical-methods-for-psychology" class="section level3">
+<h3>Statistical Methods for Psychology</h3>
+<p>I also enjoy conducting <strong>simulations</strong> that illustrate
+<strong>methodological</strong> and <strong>statistical</strong> issues,
+which could inform the broader field of psychology.</p>
+<p>My main motivation for this is the <strong>replication
+crisis</strong> of psychology, which became a popular topic of
+discussion during the time that I was discovering my passion for
+psychological research. Partly, I was inspired by the book <a
+href="https://books.google.com.cy/books/about/The_Seven_Deadly_Sins_of_Psychology.html?id=fPqVDwAAQBAJ&amp;redir_esc=y"><em>The
+Seven Deadly Sins of Psychology</em></a> by Chris Chambers.</p>
+<p>Through this work I try to tackle issues concerning the use of
+<em>p</em>-values and <em>Bayes Factors</em>, Bayesian sample size
+determination, statistical software reliability, and others.</p>
+</div>
+<div id="laterality" class="section level3">
+<h3>Laterality</h3>
+<p>Did you notice that, as humans, <strong>we are extremely
+asymmetric</strong>? Dominant hands, dominant eyes, asymmetric feet,
+placement of visceral organs, facial features!</p>
+<p>I certainly haven’t paid that much attention to this asymmetry, until
+I established an amazing collaboration with Dr <a
+href="https://www.mpapadatoupastou.com/#info">Marietta
+Papadatou-Pastou</a>, who’s main research interest focuses on the
+<strong>behavioural aspects of laterality</strong>.</p>
+<p>You can check out the details of our laterality work <a
+href="https://www.mpapadatoupastou.com/project/laterality/">here</a> to
+understand how we utilize <strong>functional transcranial Doppler
+ultrasound</strong>, in order to figure out laterality in the brain
+during writing in both neurotypical individuals and individuals with
+atypical neurological development.</p>
+</div>
+<div id="psychometrics" class="section level3">
+<h3>Psychometrics</h3>
+<p>Psychologists often try to <strong>transform a psychological state
+into something measurable</strong>, using some sort of tool, such as a
+questionnaire.</p>
+<p>In order to create reliable and valid tools, this
+<em>transformation</em> process, has to come from researchers who can
+understand <em>both</em> <strong>(1) the underlying mechanisms</strong>
+(e.g., the emotional, cognitive, or behavioral mechanisms) and
+<strong>(2) how to utilize the underlying tools for measuring
+them</strong> (e.g., the statistics behind them).</p>
+<p>You can compare this transformation process to driving. Even if
+someone is an experienced driver (i.e., understands the underlying
+mechanisms of driving), if the car is faulty (i.e., cannot utilize it),
+travelling from A to B is impossible.</p>
+<p>My academic training in psychology along with my enthusiasm for
+statistics, has led me to be part of a fruitful consortium, where we
+<strong>standardize, validate, and create numerous psychometric
+tools</strong> -mainly in Greek- with clinical applications for the
+Greek-speaking populations.</p>
+<p><img align="center" src="/files/psychometrics.png"></p>
+</div>
+<div id="comics-in-education" class="section level3">
+<h3>Comics in Education</h3>
+<p>Did you know that <strong>comics</strong> can be employed <strong>as
+educational material</strong>?</p>
+<p>When we refer to comics we are not implying superhero comics or comic
+strips, but to comics that incorporated the <strong>use of “visual
+language” and writing</strong>.</p>
+<p>But someone would wonder why comics? Comics can be <strong>processed
+faster</strong> and be <strong>remembered better</strong> than
+texts!</p>
+<p>So, can they successfully improve educational outcomes when utilized
+as a teaching method? Are there any differences between STEM and
+non-STEM education through comics?</p>
+<p>By providing my meta-science expertise, I collaborate with an amazing
+team working on the <strong>MSCA</strong> funded <a
+href="https://sellstem.eu">SellSTEM</a> project, to <strong>better
+understand how we can improve STEM education</strong>.</p>
+</div>
+</div>
+<div id="section-1" class="section level2">
+<h2></h2>
+<p><br></p>
+<table>
+<colgroup>
+<col width="21%" />
+<col width="19%" />
+<col width="19%" />
+<col width="19%" />
+<col width="19%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="right"><font size="5">Contact:</td>
+<td align="center"><a href="https://twitter.com/phivph"><img
+src="/files/twitterLogo.png" alt="twitter" /></a></td>
+<td align="center"><a href="https://mastodon.social/@phivph"><img
+src="/files/mastodonLogo.png" alt="mastodon" /></a></td>
+<td align="center"><a
+href="https://www.linkedin.com/in/phivos-phylactou-137113176/"><img
+src="/files/linkedInLogo.png" alt="linkedin" /></a></td>
+<td align="center"><a href="mailto:pp.phylactou@edu.cut.ac.cy"><img
+src="/files/emailLogo.png" alt="email icon" /></a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><img align="center" src="/files/mylogo_long.png"></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

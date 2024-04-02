@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Publication List</title>
+
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="bg_img.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Phivos Phylactou</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="awards.html">Awards</a>
+</li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Publication List</h1>
+
+</div>
+
+
+<p><a
+href="https://scholar.google.com/citations?user=OCLv7cwAAAAJ&amp;hl=en">Google
+Scholar</a> | <a href="https://orcid.org/0000-0002-7333-8761">Orcid</a>
+| <a
+href="https://www.researchgate.net/profile/Phivos-Phylactou">Research
+Gate</a></p>
+<p><font size="2"> <em>Please feel free to <a
+href="https://phivph.github.io/contact.html">contact me</a> if you
+cannot access any of the work below</em> <font size="3"></p>
+<div id="year" class="section level2 tabset tabset-fade">
+<h2 class="tabset tabset-fade">Year</h2>
+<div id="section" class="section level3">
+<h3>2024</h3>
+<ul>
+<li><p>Georgiou, A. M., <strong>Phylactou, P.</strong>, &amp;
+Kambanaros, M. (2024). The effectiveness of transcranial magnetic
+stimulation for dysphagia in stroke patients: an umbrella review of
+systematic reviews and meta-analyses. <em>Frontiers in Human
+Neuroscience</em> <a
+href="https://doi.org/10.3389/fnhum.2024.1355407">https://doi.org/10.3389/fnhum.2024.1355407</a></p></li>
+<li><p>Papadopoulou, K. A., Vlachos, F., Badcock, A. N.,
+<strong>Phylactou, P.</strong>, &amp; Papadatou-Pastou, M. (2024).
+Registered Report: Exploring cerebral laterality of writing and the
+relationship to handedness: A functional transcranial Doppler ultrasound
+investigation. <em>Laterality</em> <a
+href="https://doi.org/10.1080/1357650X.2023.2284407">https://doi.org/10.1080/1357650X.2023.2284407</a></p></li>
+</ul>
+</div>
+<div id="section-1" class="section level3">
+<h3>2023</h3>
+<ul>
+<li><p><strong>Phylactou, P.</strong>, Shimi, A., &amp; Konstantinou, N.
+(2023). Causal evidence for the role of the sensory visual cortex in
+visual short-term memory maintenance. <em>Royal Society Open
+Science</em> <a
+href="https://doi.org/10.1098/rsos.230321">https://doi.org/10.1098/rsos.230321</a></p></li>
+<li><p><strong>Phylactou, P.</strong>, Traikapi, A., &amp; Konstantinou,
+N. (2023). One in four people fail to perceive phosphenes during early
+visual cortex transcranial magnetic stimulation. <em>Brain Stimulation:
+Basic, Translational, and Clinical Research in Neuromodulation</em> <a
+href="https://doi.org/10.1016/j.brs.2022.12.012">https://doi.org/10.1016/j.brs.2022.12.012</a></p></li>
+</ul>
+</div>
+<div id="section-2" class="section level3">
+<h3>2022</h3>
+<ul>
+<li><p><strong>Phylactou, P.</strong>, Traikapi, A., Papadatou-Pastou,
+M., &amp; Konstantinou, N. (2022). Sensory Recruitment in Visual
+Short-Term Memory: A Systematic Review and Meta-Analysis of Sensory
+Visual Cortex Interference Using Transcranial Magnetic Stimulation.
+<em>Psychonomic Bulletin &amp; Review</em> <a
+href="https://doi.org/10.3758/s13423-022-02107-y">https://doi.org/10.3758/s13423-022-02107-y</a></p></li>
+<li><p>Traikapi, A., <strong>Phylactou, P.</strong>, &amp; Konstantinou,
+N. (2022). Repetitive Transcranial Magnetic Stimulation of the Human
+Motor Cortex in the Gamma Band Reduces Cortical Excitability.
+<em>Neurophysiologie Clinique</em> <a
+href="https://doi.org/10.1016/j.neucli.2022.09.005">https://doi.org/10.1016/j.neucli.2022.09.005</a></p></li>
+<li><p>Traikapi, A., Kalli, I., Kyriakou, A., Stylianou, E., Symeou,
+R.T., Kardama, A., Christou, G., <strong>Phylactou, P.</strong>, &amp;
+Konstantinou, N. (2022). Episodic Memory Effects of Gamma Frequency
+Precuneus Transcranial Magnetic Stimulation in Alzheimer’s Disease: A
+Randomized Multiple Baseline Study. <em>Journal of Neuropsychology</em>
+<a
+href="https://doi.org/10.1111/jnp.12299">https://doi.org/10.1111/jnp.12299</a></p></li>
+<li><p>Charalambous, M., <strong>Phylactou, P.</strong>, Kountouri, A.,
+Serafeim, M., Psychogios, L., Annoni, J.M., &amp; Kambanaros, M. (2022).
+Adaptation of the Aphasia Impact Questionnaire-21 into Greek: A
+Reliability and Validity Study. <em>Clinical and Translational
+Neuroscience</em> <a
+href="https://doi.org/10.3390/ctn6040024">https://doi.org/10.3390/ctn6040024</a></p></li>
+<li><p>Charalambous, M., <strong>Phylactou, P.</strong>, Elriz, T.,
+Psychogios, L., Annoni, J.M., &amp; Kambanaros, M. (2022). Adaptation of
+the Scenario Test for Greek-speaking people with aphasia: A reliability
+and validity study. <em>International Journal of Language and
+Communication Disorders</em> <a
+href="https://doi.org/10.1111/1460-6984.12727">https://doi.org/10.1111/1460-6984.12727</a></p></li>
+<li><p>Charalambous, M., Kountouris, A., <strong>Phylactou, P.</strong>,
+Triantafyllidou, A., Jean-Marie, A., &amp; Kambanaros, M., (2022).
+’Patient Involvement (PI) in Stroke Research. What do chronic stroke
+survivors, with and without aphasia, think about their involvement as
+research partners? A thematic analysis. <em>Research Involvement and
+Engagement</em> <a
+href="https://doi.org/10.1186/s40900-022-00379-1">https://doi.org/10.1186/s40900-022-00379-1</a></p></li>
+</ul>
+</div>
+<div id="section-3" class="section level3">
+<h3>2021</h3>
+<ul>
+<li>Katsounari, I., <strong>Phylactou, P.</strong>, &amp; Heracleous,
+H., (2021). <em>No lost generation: refugee children education in
+Cyprus</em>. Hellenic Observatory Papers on Greece and Southeast Europe
+(161). Hellenic Observatory, London School of Economics and Political
+Science, London, UK <a
+href="https://www.lse.ac.uk/Hellenic-Observatory/Assets/Documents/Publications/GreeSE-Papers/GreeSE-No161.pdf">https://www.lse.ac.uk/Hellenic-Observatory</a></li>
+</ul>
+</div>
+<div id="section-4" class="section level3">
+<h3>2019</h3>
+<ul>
+<li><strong>Phylactou, P.</strong> (2019). Inside the Mind of
+Weightlifters: The Mental Preparation of Greek-Cypriot
+Olympic-Weightlifting Athletes. <em>Journal of European Psychology
+Students</em> <a
+href="http://doi.org/10.5334/jeps.466">http://doi.org/10.5334/jeps.466</a></li>
+</ul>
+</div>
+<div id="registrations" class="section level3">
+<h3>Registrations</h3>
+<ul>
+<li><p>Pagkratidou, M., Cohn, N., <strong>Phylactou, P.</strong>,
+Papadatou-Pastou, M., &amp; Duffy, G. (Stage 1 under review). Learning
+from comics versus non-comics material in education: Systematic review
+and meta-analysis. <em>Peer-community In Registered Reports</em> <a
+href="https://doi.org/10.31222/osf.io/ceda3">https://doi.org/10.31222/osf.io/ceda3</a></p></li>
+<li><p>Papadopoulou, K. A., Vlachos, F., Pervanidou, P., Anesiadou, S.,
+Antoniou, F., <strong>Phylactou, P.</strong>, Badcock, A. N., &amp;
+Papadatou-Pastou, M. (in principle acceptance). Registered Report:
+Cerebral lateralization of writing in students at risk for dyslexia
+using functional Transcranial Doppler ultrasonography.
+<em>Peer-community In Registered Reports</em> <a
+href="https://osf.io/u54tk">https://osf.io/u54tk</a></p></li>
+<li><p>Samsouris, C., Badcock, N., Vlachos, F., <strong>Phylactou,
+P.</strong>, &amp; Papadatou-Pasou, M. (under review). Registered
+Report: Cerebral lateralization during handwritten and typed word
+generation: A functional transcranial Doppler ultrasound study in left-
+and right-handers. <em>European Jounral of Neuroscience</em></p></li>
+<li><p>Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou,
+S., Antoniou, F., Pervanidou, P., <strong>Phylactou, P.</strong>,
+Vlachos, F., Badcock, A. N., &amp; Papadatou-Pastou, M. (OSF
+registration). Registered Report: The effects of educational
+interventions in the cerebral lateralization for written language in
+children at risk for dyslexia: A functional transcranial Doppler
+ultrasound study. <em>Open Science Framework</em></p></li>
+</ul>
+</div>
+<div id="preprints" class="section level3">
+<h3>Preprints</h3>
+<ul>
+<li><p><strong>Phylactou, P.</strong>, Pham, T., Narskhani, N., Diya,
+N., Seminowicz, D. A., &amp; Schabrun, S. M. (2023). A Meta-Analytic
+Investigation of the Correlation Between Resting Motor and Phosphene
+Thresholds. <em>bioRxiv</em> <a
+href="https://doi.org/10.1101/2023.12.12.571304">https://doi.org/10.1101/2023.12.12.571304</a></p></li>
+<li><p><strong>Phylactou, P.</strong> (2023). P-Values or Bayes Factors?
+Whichever, but not Both. <em>PsyArXiv</em> <a
+href="https://doi.org/10.31234/osf.io/dthns">https://doi.org/10.31234/osf.io/dthns</a></p></li>
+<li><p><strong>Phylactou, P.</strong>, &amp; Konstantinou, N. (2022).
+Bayesian T-Test Sample Size Determination: Reference Tables for Various
+Bayes Factor Thresholds, Effect Sizes, Sample Sizes, and Variance
+Assumptions. <em>PsyArXiv</em> <a
+href="http://doi.org/10.31234/osf.io/jnp8c">http://doi.org/10.31234/osf.io/jnp8c</a></p></li>
+<li><p><strong>Phylactou, P.</strong>, Papadatou-Pastou, M., &amp;
+Konstantinou, N. (2022). The Bayesian One-sample t-Test Supersedes
+Correlation Analysis as a Test of Validity. <em>PsyArXiv</em> <a
+href="http://doi.org/10.31234/osf.io/dru53">http://doi.org/10.31234/osf.io/dru53</a></p></li>
+</ul>
+</div>
+</div>
+<div id="section-5" class="section level2">
+<h2></h2>
+<p><br></p>
+<table>
+<colgroup>
+<col width="21%" />
+<col width="19%" />
+<col width="19%" />
+<col width="19%" />
+<col width="19%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td align="right"><font size="5">Contact:</td>
+<td align="center"><a href="https://twitter.com/phivph"><img
+src="/files/twitterLogo.png" alt="twitter" /></a></td>
+<td align="center"><a href="https://mastodon.social/@phivph"><img
+src="/files/mastodonLogo.png" alt="mastodon" /></a></td>
+<td align="center"><a
+href="https://www.linkedin.com/in/phivos-phylactou-137113176/"><img
+src="/files/linkedInLogo.png" alt="linkedin" /></a></td>
+<td align="center"><a href="mailto:pp.phylactou@edu.cut.ac.cy"><img
+src="/files/emailLogo.png" alt="email icon" /></a></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><img align="center" src="/files/mylogo_long.png"></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
