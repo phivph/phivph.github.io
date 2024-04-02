@@ -1,0 +1,37 @@
+---
+title: "Awards Received"
+output:
+  html_document:
+    theme: cosmo
+    css: bg_img.css
+---
+- **Marie Skłodowska-Curie Actions Global Postdoctoral Fellowship**, *European Commission*, 2023.
+
+- **Postdoctoral Associate Recruitment Award**, *Faculty of Health Sciences, University of Western Ontario*, 2023.
+
+- **Travel grant**, *European Conference on Visual Perception*, 2022.
+
+- **Youth Initiative travel grant**, *Youth Board of Cyprus*, 2022.
+
+- **[Research Excellence](https://www.psychonomic.org/page/2021GraduateAwardRecipients) graduate student award**, *Psychonomic Society*, 2021.
+
+- **PhD scholarship for social science research**, *Cyprus Scholarship Foundation*, 2020-2023.
+
+- **Students in Action research grant**, *Youth Board of Cyprus*, 2019.    
+
+- **[Valedictorian](https://www.youtube.com/watch?v=TCqeY3iD7RA): Highest overall GPA, amongst all students**, *Frederick University Cyprus*, 2019.
+
+
+
+
+<br>
+---
+
+|         |        |        |        |        |        |
+|--------:|:------:|:------:|:------:|:------:|:------:|  
+|<font size="5">Contact:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![mastodon](/files/mastodonLogo.png)](https://mastodon.social/@phivph)|[![bluesky](/files/blueskyLogo.png)](https://bsky.app/profile/phivph.bsky.social)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
+
+
+<br>
+
+<img align="center" src="/files/mylogo_long.png">
