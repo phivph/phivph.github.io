@@ -2,7 +2,7 @@
 title: "Publication List"
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
     css: bg_img.css
 ---
 

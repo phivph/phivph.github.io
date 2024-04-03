@@ -1,0 +1,26 @@
+---
+title: "Project RESTORE"
+output:
+  html_document:
+    theme: yeti
+    css: bg_img.css
+---
+
+RESTORE is a Marie Skłodowska-Curie Actions funded project that will commence on September 2025. Stay tuned!
+
+<br>
+
+<img align="center" src="/files/RESTORE_logo.jpg">
+
+ <br>
+---
+
+|         |        |        |        |        |        |
+|--------:|:------:|:------:|:------:|:------:|:------:|  
+|<font size="5">Contact:|[![twitter](/files/twitterLogo.png)](https://twitter.com/phivph)|[![mastodon](/files/mastodonLogo.png)](https://mastodon.social/@phivph)|[![bluesky](/files/blueskyLogo.png)](https://bsky.app/profile/phivph.bsky.social)|[![linkedin](/files/linkedInLogo.png)](https://www.linkedin.com/in/phivos-phylactou-137113176/)|[![email icon](/files/emailLogo.png)](mailto:pp.phylactou@edu.cut.ac.cy)|
+
+<br>
+
+
+
+<img align="center" src="/files/mylogo_long.png">
