@@ -13,6 +13,8 @@ output:
 ## Year {.tabset .tabset-fade}
 
 ### 2024
+- **Phylactou, P.**, Pham, T.N.M., Narskhani, N., Diya, N., Seminowicz, D. A., & Schabrun, S. M. (2024). A Meta-Analytic Investigation of the Correlation Between Resting Motor and Phosphene Thresholds. *Progress in Neuro-Psychopharmacology and Biological Psychiatry* [https://doi.org/10.1016/j.pnpbp.2024.111020](https://doi.org/10.1016/j.pnpbp.2024.111020)
+
 - Georgiou, A. M., **Phylactou, P.**, & Kambanaros, M. (2024). The effectiveness of transcranial magnetic stimulation for dysphagia in stroke patients: an umbrella review of systematic reviews and meta-analyses. *Frontiers in Human Neuroscience* [https://doi.org/10.3389/fnhum.2024.1355407](https://doi.org/10.3389/fnhum.2024.1355407)  
 
 - Papadopoulou, K. A., Vlachos, F., Badcock, A. N., **Phylactou, P.**, & Papadatou-Pastou, M. (2024). Registered Report: Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. *Laterality* [https://doi.org/10.1080/1357650X.2023.2284407](https://doi.org/10.1080/1357650X.2023.2284407)
@@ -52,7 +54,7 @@ output:
 - Papadopoulou, K. A., Fragkouli, K., Papakostas, A., Anesiadou, S., Antoniou, F., Pervanidou, P., **Phylactou, P.**, Vlachos, F., Badcock, A. N., & Papadatou-Pastou, M. (OSF registration). Registered Report: The effects of educational interventions in the cerebral lateralization for written language in children at risk for dyslexia: A functional transcranial Doppler ultrasound study. *Open Science Framework*
 
 ### Preprints
-- **Phylactou, P.**, Pham, T., Narskhani, N., Diya, N., Seminowicz, D. A., & Schabrun, S. M. (2023). A Meta-Analytic Investigation of the Correlation Between Resting Motor and Phosphene Thresholds. *bioRxiv* [https://doi.org/10.1101/2023.12.12.571304](https://doi.org/10.1101/2023.12.12.571304)
+- **Phylactou, P.**, Chen, S., Seminowicz, D. A., & Schabrun, S. M. (2024). Can we Find Evidence for the Null in a Bayesian t-Test? Not Unless we Reconsider Bayes Factor Thresholds. *PsyArXiv* [https://doi.org/10.31234/osf.io/kytj7](https://doi.org/10.31234/osf.io/kytj7) 
 
 - **Phylactou, P.** (2023). P-Values or Bayes Factors? Whichever, but not Both. *PsyArXiv* [https://doi.org/10.31234/osf.io/dthns](https://doi.org/10.31234/osf.io/dthns)
 
