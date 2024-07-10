@@ -15,6 +15,8 @@ output:
 ### 2024
 - **Phylactou, P.**, Pham, T.N.M., Narskhani, N., Diya, N., Seminowicz, D. A., & Schabrun, S. M. (2024). A Meta-Analytic Investigation of the Correlation Between Resting Motor and Phosphene Thresholds. *Progress in Neuro-Psychopharmacology and Biological Psychiatry* [https://doi.org/10.1016/j.pnpbp.2024.111020](https://doi.org/10.1016/j.pnpbp.2024.111020)
 
+- Charalambous, M., **Phylactou, P.**, Antoniou, E., Christodoulou, M., & Kambanaros, M. (2024). The Adaptation of the Communicative Effectiveness Index (CETI) into Greek: A Reliability and Validity Study. *Brain Sciences* [https://doi.org/10.3390/brainsci14070689](https://doi.org/10.3390/brainsci14070689)
+
 - Georgiou, A. M., **Phylactou, P.**, & Kambanaros, M. (2024). The effectiveness of transcranial magnetic stimulation for dysphagia in stroke patients: an umbrella review of systematic reviews and meta-analyses. *Frontiers in Human Neuroscience* [https://doi.org/10.3389/fnhum.2024.1355407](https://doi.org/10.3389/fnhum.2024.1355407)  
 
 - Papadopoulou, K. A., Vlachos, F., Badcock, A. N., **Phylactou, P.**, & Papadatou-Pastou, M. (2024). Exploring cerebral laterality of writing and the relationship to handedness: A functional transcranial Doppler ultrasound investigation. *Laterality* [https://doi.org/10.1080/1357650X.2023.2284407](https://doi.org/10.1080/1357650X.2023.2284407)
