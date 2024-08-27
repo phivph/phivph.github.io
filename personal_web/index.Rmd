@@ -17,7 +17,7 @@ output:
 
 Hi, I am Phivos!
 
-Welcome to my personal webpage. Here you can find out some details regarding what I do.
+If you met me outside of Cyprus, you probably know me as Phibo. In any case, check out this brief [clip from the sitcom *Friends*](https://www.youtube.com/watch?v=f63sK_KMovE), if you want to make sure that you remember my name or that you pronounce it correctly.
 
 <img align="right" width="100" height="200" src="/files/selfillussion.jpg">
 
