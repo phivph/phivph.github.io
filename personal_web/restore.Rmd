@@ -6,7 +6,7 @@ output:
     css: bg_img.css
 ---
 
-[RESTORE](https://doi.org/10.3030/101146138) is a Marie Skłodowska-Curie Actions funded project that will commence on September 2025. Stay tuned!
+RESTORE is a Marie Skłodowska-Curie Actions funded project that will commence on September 2025. Stay tuned!
 
 <br>
 

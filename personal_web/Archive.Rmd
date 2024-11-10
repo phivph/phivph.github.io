@@ -6,7 +6,65 @@ output:
     css: bg_img.css
 ---
 
-From 'Projects' removed on Apr 1 2024:
+[//]: "Made a change to 'Projects' section. The project section now
+includes my funded projects 'RESTORE' and 'STIMULEY' (Nov 9, 2024)"
+
+[//]: "Removed 'RESTORE' subsection and moved it in tab under 'Projects' (Nov 9, 2024)"
+
+[//]: "Removed the below projects from 'Projects' (Nov 9, 2024)"
+
+### Visual Short-Term Memory
+My main research interest is focused on **understanding the neural architecture of visual short-term memory**. How are visual representations stored during working memory?
+
+To study this, I combine **behavioral experiments** (think of these like some sort of very boring video games) with various technologies, such as **transcranial magnetic stimulation** (TMS), **eye-tracking**, and **brain imaging** (EEG). 
+
+The main tool I employ is TMS, which is a non-invasive, reliable, and safe tool to induce brain stimulation with high temporal & spatial resolution. If you are curious about how I do this, but you want the lay-person version of the explanation, you can [**check out my TEDx talk**](https://www.ted.com/talks/phivos_phylactou_beyond_what_our_eyes_perceive "Beyond what our Eyes Perceive").
+
+An animated example of a TMS paradigm is shown below:
+
+<img align="center" src="/files/TMS_example.gif">
+
+### Statistical Methods for Psychology
+I also enjoy conducting **simulations** that illustrate **methodological** and **statistical** issues, which could inform the broader field of psychology.
+
+My main motivation for this is the **replication crisis** of psychology, which became a popular topic of discussion during the time that I was discovering my passion for psychological research. Partly, I was inspired by the book [*The Seven Deadly Sins of Psychology*](https://books.google.com.cy/books/about/The_Seven_Deadly_Sins_of_Psychology.html?id=fPqVDwAAQBAJ&redir_esc=y) by Chris Chambers.
+
+Through this work I try to tackle issues concerning the use of *p*-values and *Bayes Factors*, Bayesian sample size determination, statistical software reliability, and others.
+
+
+### Laterality
+Did you notice that, as humans, **we are extremely asymmetric**?
+Dominant hands, dominant eyes, asymmetric feet, placement of visceral organs, facial features!
+
+I certainly haven't paid that much attention to this asymmetry, until I established an amazing collaboration with Dr [Marietta Papadatou-Pastou](https://www.mpapadatoupastou.com/#info), who's main research interest focuses on the **behavioural aspects of laterality**. 
+
+You can check out the details of our laterality work [here](https://www.mpapadatoupastou.com/project/laterality/) to understand how we utilize **functional transcranial Doppler ultrasound**, in order to figure out laterality in the brain during writing in both neurotypical individuals and individuals with atypical neurological development.  
+
+### Psychometrics
+Psychologists often try to **transform a psychological state into something measurable**, using some sort of tool, such as a questionnaire.
+
+In order to create reliable and valid tools, this *transformation* process, has to come from researchers who can understand *both* **(1) the underlying mechanisms** (e.g., the emotional, cognitive, or behavioral mechanisms) and **(2) how to utilize the underlying tools for measuring them** (e.g., the statistics behind them).
+
+You can compare this transformation process to driving. 
+Even if someone is an experienced driver (i.e., understands the underlying mechanisms of driving), if the car is faulty (i.e., cannot utilize it), travelling from A to B is impossible.
+
+My academic training in psychology along with my enthusiasm for statistics, has led me to be part of a fruitful consortium, where we **standardize, validate, and create numerous psychometric tools** -mainly in Greek- with clinical applications for the Greek-speaking populations.
+
+<img align="center" src="/files/psychometrics.png">
+
+### Comics in Education
+Did you know that **comics** can be employed **as educational material**? 
+
+When we refer to comics we are not implying superhero comics or comic strips, but to comics that incorporated the **use of “visual language” and writing**. 
+
+But someone would wonder why comics?
+Comics can be **processed faster** and be **remembered better** than texts!
+
+So, can they successfully improve educational outcomes when utilized as a teaching method? Are there any differences between STEM and non-STEM education through comics? 
+
+By providing my meta-science expertise, I collaborate with an amazing team working on the **MSCA** funded [SellSTEM](https://sellstem.eu) project, to **better understand how we can improve STEM education**.
+
+[//]: "From 'Projects' removed on Apr 1 2024:"
 
 ### Trust in Science
 At the [University of Central Lancashire Cyprus](https://www.uclancyprus.ac.cy), I am working on [VERITY](https://www.uclancyprus.ac.cy/enarktiria-synantisi-toy-neoy-ereyni/).
@@ -16,3 +74,5 @@ VERITY is a **Horizon Europe** program funded by the European Commission, aiming
 VERITY comprises of a consortium of **seven partners**, from seven European countries: Trilateral Research (United Kingdom and Ireland), EUREC Office (Germany), Science Business (Belgium), Centre for Social Innovation (Austria), UCLan Cyprus (Cyprus), and University of West Attica (Greece).
 
 My contribution to VERITY is mainly related to the implementation of **quantitative meta-scientific methods** (i.e., meta-analyses).
+
+

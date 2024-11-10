@@ -5,6 +5,8 @@ output:
     theme: yeti
     css: bg_img.css
 ---
+- **Mary Elizabeth Horney Fellowship in Rehabilitation**, *St. Joseph’s Health Care Foundation*, 2024.
+
 - **Marie Skłodowska-Curie Actions Global Postdoctoral Fellowship**, *European Commission*, 2023.
 
 - **Postdoctoral Associate Recruitment Award**, *Faculty of Health Sciences, University of Western Ontario*, 2023.

@@ -8,8 +8,6 @@ navbar:
       href: publications.html
     - text: "Projects"
       href: projects.html
-    - text: "RESTORE"
-      href: restore.html
     - text: "Awards"
       href: awards.html
     - text: "Contact"
